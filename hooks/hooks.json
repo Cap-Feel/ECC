@@ -84,7 +84,7 @@
         "id": "pre:mcp-health-check"
       },
       {
-        "matcher": "Edit|Write|MultiEdit",
+        "matcher": "DISABLED_Edit|DISABLED_Write|DISABLED_MultiEdit",
         "hooks": [
           {
             "type": "command",
